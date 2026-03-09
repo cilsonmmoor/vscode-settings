@@ -1,6 +1,7 @@
 # vscode-settings
 
-Practice project: vscode-settings
+## Description
+This is a practice project for customizing Visual Studio Code settings.
 
 ## Features
 - Customizable settings
