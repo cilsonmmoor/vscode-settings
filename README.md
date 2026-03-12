@@ -1,17 +1,19 @@
 # vscode-settings
 
-## Description
-This is a practice project for customizing Visual Studio Code settings.
+This repository contains configuration settings for Visual Studio Code (VSCode) that enhance productivity and coding efficiency.
 
 ## Features
-- Customizable settings
-- Easy to manage configurations
+- Pre-configured settings for various programming languages.
+- Extensions recommendations for a better development experience.
+
+## Tech Stack
+- Visual Studio Code
 
 ## Usage
-Clone the repository and explore the settings files.
+1. Clone the repository.
+2. Copy the settings to your VSCode settings file.
+3. Install recommended extensions.
 
 ## Future Plans
-- Add presets for different programming languages
-- Provide a user interface for settings management
-- Create a backup feature
-- Share settings across devices
+- Add more configurations for additional languages.
+- Include theme and icon pack recommendations.
